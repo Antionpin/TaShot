@@ -7,6 +7,7 @@ En esta sitio estaremos publicando TODAS las BETAS y versiones de el juego TaSho
 1. Entrar desde la carpeta en terminal.
 
 2. Instalar dependencias desde:
+	
 	1º pip install ursina (Pulsar ENTER)
 
 3. Escribir: python main.py (Pulsar ENTER)
